@@ -1,8 +1,8 @@
-package bofao;
+package atividades;
 
 import javax.swing.JOptionPane;
 
-public class Bofao {
+public class Cadastro {
 
     public static void main(String[] args) {
         String nome = JOptionPane.showInputDialog("Digite seu nome");
