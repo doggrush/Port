@@ -13,4 +13,4 @@
 * Office
 * Windows
 ## Descrição
-Este portfólio contem todos os trabalhos do 2º ano até o final do 3º ano do Ensino Médio.
+Este portfólio contem todos os trabalhos do 2º ano do Ensino Médio integrado com Desenvolvimento de Sistemas.
