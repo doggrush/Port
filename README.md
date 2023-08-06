@@ -8,7 +8,7 @@
 * Inglês
 * Informatica
   * Manutenção de Eletrônicos
-  * Elétrica
+  * Eletrônica
 * Exatas
 ## Descrição
 Este portfólio contem todos os trabalhos do Ensino Médio integrado com Desenvolvimento de Sistemas.
