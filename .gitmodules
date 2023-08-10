@@ -4,3 +4,6 @@
 [submodule "Programação de Aplicativos/BibliotecaSESI"]
 	path = Programação de Aplicativos/BibliotecaSESI
 	url = https://github.com/doggrush/BibliotecaSESI.git
+[submodule "Programação de Aplicativos/Autorias Segundo Trimestre/FatosMacacosHTML"]
+	path = Programação de Aplicativos/Autorias Segundo Trimestre/FatosMacacosHTML
+	url = https://github.com/doggrush/FatosMacacosHTML.git
