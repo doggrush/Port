@@ -1,3 +1,6 @@
 [submodule "Programação de Aplicativos/OliverEatsAnApple"]
 	path = Programação de Aplicativos/OliverEatsAnApple
 	url = https://github.com/doggrush/OliverEatsAnApple.git
+[submodule "Programação de Aplicativos/BibliotecaSESI"]
+	path = Programação de Aplicativos/BibliotecaSESI
+	url = https://github.com/doggrush/BibliotecaSESI.git
