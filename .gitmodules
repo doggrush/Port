@@ -10,3 +10,6 @@
 [submodule "Modelagem de Sistemas/Calculadora"]
 	path = Modelagem de Sistemas/Calculadora
 	url = https://github.com/doggrush/Calculadora.git
+[submodule "Programação de Aplicativos/Autorias Segundo Trimestre/CombinacaoSimples"]
+	path = Programação de Aplicativos/Autorias Segundo Trimestre/CombinacaoSimples
+	url = https://github.com/doggrush/CombinacaoSimples.git
