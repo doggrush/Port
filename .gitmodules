@@ -2,7 +2,7 @@
 	path = Programação de Aplicativos/OliverEatsAnApple
 	url = https://github.com/doggrush/OliverEatsAnApple.git
 [submodule "Programação de Aplicativos/BibliotecaSESI"]
-	path = Programação de Aplicativos/BibliotecaSESI
+	path = Modelagem de Sistemas/BibliotecaSESI
 	url = https://github.com/doggrush/BibliotecaSESI.git
 [submodule "Programação de Aplicativos/Autorias Segundo Trimestre/FatosMacacosHTML"]
 	path = Programação de Aplicativos/Autorias Segundo Trimestre/FatosMacacosHTML
