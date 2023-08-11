@@ -10,3 +10,9 @@
 [submodule "Modelagem de Sistemas/BibliotecaSESI"]
 	path = Modelagem de Sistemas/BibliotecaSESI
 	url = https://github.com/doggrush/BibliotecaSESI.git
+[submodule "Modelagem de Sistemas/CalculadoraKanban/Calculadora"]
+	path = Modelagem de Sistemas/CalculadoraKanban/Calculadora
+	url = https://github.com/doggrush/Calculadora.git
+[submodule "Modelagem de Sistemas/Calculadora"]
+	path = Modelagem de Sistemas/Calculadora
+	url = https://github.com/doggrush/Calculadora.git
