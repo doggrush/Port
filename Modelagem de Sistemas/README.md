@@ -5,3 +5,6 @@ Nesta atividade montamos um aplicativo no android studio na linguagem java, o ap
 
 ### **Solução para a fila da cantina**
 Nesta atividade tentamos resolver o problema da fila na cantina escolar, montamos o design de um aplicativo para o cliente onde ele pode comprar com antecedência seu alimento, resgatando o mesmo com um *voucher*.
+
+### **Projeto com metodologia Kanban**
+Neste projeto, montamos uma calculadora com a metodologia kanban como a organizadora do projeto.

@@ -1,18 +1,12 @@
 [submodule "Programação de Aplicativos/OliverEatsAnApple"]
 	path = Programação de Aplicativos/OliverEatsAnApple
 	url = https://github.com/doggrush/OliverEatsAnApple.git
-[submodule "Programação de Aplicativos/BibliotecaSESI"]
-	path = Modelagem de Sistemas/BibliotecaSESI
-	url = https://github.com/doggrush/BibliotecaSESI.git
 [submodule "Programação de Aplicativos/Autorias Segundo Trimestre/FatosMacacosHTML"]
 	path = Programação de Aplicativos/Autorias Segundo Trimestre/FatosMacacosHTML
 	url = https://github.com/doggrush/FatosMacacosHTML.git
 [submodule "Modelagem de Sistemas/BibliotecaSESI"]
 	path = Modelagem de Sistemas/BibliotecaSESI
 	url = https://github.com/doggrush/BibliotecaSESI.git
-[submodule "Modelagem de Sistemas/CalculadoraKanban/Calculadora"]
-	path = Modelagem de Sistemas/CalculadoraKanban/Calculadora
-	url = https://github.com/doggrush/Calculadora.git
 [submodule "Modelagem de Sistemas/Calculadora"]
 	path = Modelagem de Sistemas/Calculadora
 	url = https://github.com/doggrush/Calculadora.git
