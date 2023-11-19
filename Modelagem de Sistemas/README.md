@@ -10,4 +10,4 @@ Nesta atividade tentamos resolver o problema da fila na cantina escolar, montamo
 Neste projeto, montamos uma calculadora com a metodologia kanban como a organizadora do projeto.
 
 ### **Cliente X/WannaTips**
-Neste projeto, com minha equipe, fomos encarregados de agir como um cliente e como uma equipe de desenvolvimento, encarregamos uma equipe de fazer nosso site, um site sobre um restaurante e fomos encarregados de montar um site de viagens, similar ao [123milhas](https://123milhas.com, para outra equipe.
+Neste projeto, com minha equipe, fomos encarregados de agir como um cliente e como uma equipe de desenvolvimento, encarregamos uma equipe de fazer nosso site, um site sobre um restaurante e fomos encarregados de montar um site de viagens, similar ao [123milhas](https://123milhas.com), para outra equipe.
