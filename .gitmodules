@@ -13,3 +13,6 @@
 [submodule "Programação de Aplicativos/Autorias Segundo Trimestre/CombinacaoSimples"]
 	path = Programação de Aplicativos/Autorias Segundo Trimestre/CombinacaoSimples
 	url = https://github.com/doggrush/CombinacaoSimples.git
+[submodule "Modelagem de Sistemas/wannatips"]
+	path = Modelagem de Sistemas/wannatips
+	url = https://github.com/fanilinho22/wannatips.git

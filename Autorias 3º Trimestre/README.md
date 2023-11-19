@@ -1,0 +1,1 @@
+Todos as autorias estão no [portfólio padrão](https://sites.google.com/view/doggrushport3/)
